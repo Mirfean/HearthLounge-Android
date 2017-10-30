@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    //Font colors
+    <color name="primary_font_color"> #fff</color>
+
+    //Background colors
+    <color name="dark_grey"> #474143</color>        //dark-grey
+    <color name="light_grey"> #A69E9D</color>
+    <color name="pearl"> #E7E2DA</color>
+    <color name="sea_color"> #00a99c</color>
+    <color name="dark_green"> #2e7d32</color>
+    <!--<color name="black_075"> rgba(0,0,0,0.75)</color>-->
+    <!--<color name="black_050"> rgba(0,0,0,0.50)</color>-->
+    <!--<color name="black_020"> rgba(0,0,0,0.20)</color>-->
+    <!--<color name="black_010"> rgba(0,0,0,0.10)</color>-->
+    <!--<color name="white_010"> rgba(225,255,255,.1)</color>-->
+    <!--<color name="white_020"> rgba(225,255,255,.2)</color>-->
+    <!--<color name="odd_row"> rgba(255,255,255,.6)</color>-->
+    <!--<color name="even_row"> rgba(255,255,255,.5)</color>-->
+
+    //Social Media colors
+    <color name="fb_logo"> #fff</color>
+    <color name="fb_background"> #3b5998</color>
+    <color name="twitter_logo"> #55acee</color>
+    <color name="twitter_background"> #fff</color>
+    <color name="yt_logo"> #fff</color>
+    <color name="yt_background"> #bb0000</color>
+    <color name="reddit_logo"> #fff</color>
+    <color name="reddit_background"> #ff4006</color>
+    <color name="battlenet_logo"> #00c0f6</color>
+    <color name="battlenet_background"> #1e293f</color>
+    <color name="twitch_logo"> #fff</color>
+    <color name="twitch_background"> #6441a4</color>
+
+    //Class colors
+    <color name="druid">#FF7D0A</color>
+    <color name="hunter"> #ABD473</color>
+    <color name="mage"> #69CCF0</color>
+    <color name="paladin"> #F58CBA</color>
+    <color name="priest"> #FFFFFF</color>
+    <color name="rogue"> #FFF569</color>
+    <color name="shaman"> #0070DE</color>
+    <color name="warlock"> #9482C9</color>
+    <color name="warrior"> #C79C6E</color>
+    <color name="death_knight"> #C41F3B</color>
+    <color name="monk"> #00FF96</color>
+    <color name="demon_hunter"> #A330C9</color>
+
+    //Adventure colors
+    <color name="loe"> #14a9a1</color>
+    <color name="bm"> #fa5210</color>
+    <color name="karazhan"> #e2b4df</color>
+    <color name="naxx"> #b5de3f</color>
+
+    //Expansion colors
+    <color name="tgt"> #f00</color>
+    <color name="gvg"> #fae43f</color>
+    <color name="wotog"> #cc00ff</color>
+    <color name="msog"> #d2cac5</color>
+    <color name="ungoro"> #3d9e2c</color>
+    <color name="kotft"> #a5f2f3</color>
+
+    <!--//Rarity colors-->
+    <!--<color name="free"> inherit</color>-->
+    <color name="common">#ffffff</color>
+    <!--<color name="rare"> blue</color>-->
+    <!--<color name="epic"> purple</color>-->
+    <!--<color name="legendary"> orange</color>-->
+
+    //Mode colors
+    <color name="standard"> #318e2f</color>
+    <color name="wild"> #695840</color>
+    <!--<color name="extensions"> #fff</color>-->
+
+</resources>
